@@ -3,7 +3,7 @@
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/(services|pricing|results|process|about|faq|contact)",
+      "source": "/(services|pricing|process|about|faq|contact)",
       "destination": "/"
     }
   ],
